@@ -2,9 +2,9 @@
 A Repo for Final Project Twitter Sentiment Analysis
 
 
-DataSet:
+DataSet: Twitter APIs, Text Blob
 
-Training /validation :
+Training /validation : 
 
 Testing :
 
