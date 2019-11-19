@@ -12,4 +12,5 @@ Algorithms: Naive Bayes, SVM and Neural Nets
 
 
 Reference: http://cs229.stanford.edu/proj2011/GoelMittal-StockMarketPredictionUsingTwitterSentimentAnalysis.pdf
+https://wesclock777.github.io/
 
